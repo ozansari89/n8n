@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-deneme",
   "version": "0.1.0",
   "description": "",
   "keywords": [
@@ -9,11 +9,11 @@
   "homepage": "",
   "author": {
     "name": "",
-    "email": ""
+    "email": "ozansari89@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/ozansari89/n8n.git"
   },
   "main": "index.js",
   "scripts": {
