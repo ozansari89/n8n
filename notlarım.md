@@ -1,0 +1,1 @@
+buralarda notlar alalım bakalım
